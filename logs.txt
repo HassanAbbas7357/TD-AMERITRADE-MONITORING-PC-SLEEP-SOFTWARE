@@ -1,0 +1,183 @@
+
+[2022-01-29 00:31:41.452324] - Hello 0
+[2022-01-29 00:31:51.455426] - Hello 1
+[2022-01-29 00:32:01.466901] - Hello 2
+[2022-01-29 04:09:52.284829] - LOCK TIME IS OVER
+[2022-01-29 04:09:54.026078] - Hit API Date Parameters - From ~ 2022-01-29 00:00:00 - TO ~ 2022-01-29 23:59:00
+[2022-01-29 04:09:54.033054] - No Records Found Today - length of API Data is 0
+[2022-01-29 04:13:27.272971] - Hello 0
+[2022-01-29 04:13:37.286607] - Hello 1
+[2022-01-29 04:13:47.299343] - Hello 2
+[2022-01-29 04:13:57.315371] - Hello 3
+[2022-01-29 04:14:07.331437] - Hello 4
+[2022-01-29 04:14:17.351790] - Hello 5
+[2022-01-29 04:22:34.572366] - Hello 0
+[2022-01-29 04:22:44.585960] - Hello 1
+[2022-01-29 04:22:54.606718] - Hello 2
+[2022-01-29 04:23:04.616858] - Hello 3
+[2022-01-29 04:23:14.633474] - Hello 4
+[2022-01-29 04:23:24.644882] - Hello 5
+[2022-03-10 04:38:01.871353] - LOCK TIME IS OVER
+[2022-03-10 04:38:04.493171] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 04:38:04.500164] - No Records Found Today - length of API Data is 0
+[2022-03-10 04:38:14.516689] - LOCK TIME IS OVER
+[2022-03-10 04:38:16.167230] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 04:38:16.185196] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:20:59.305901] - LOCK TIME IS OVER
+[2022-03-10 05:21:01.988340] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:21:01.997339] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:21:54.346755] - LOCK TIME IS OVER
+[2022-03-10 05:21:56.205765] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:21:56.213733] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:22:06.229951] - LOCK TIME IS OVER
+[2022-03-10 05:22:07.682122] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:22:07.689104] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:22:17.703225] - LOCK TIME IS OVER
+[2022-03-10 05:22:24.932793] - LOCK TIME IS OVER
+[2022-03-10 05:35:49.809740] - LOCK TIME IS OVER
+[2022-03-10 05:35:51.718418] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:35:51.724415] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:36:01.744491] - LOCK TIME IS OVER
+[2022-03-10 05:36:03.455209] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:36:03.462207] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:36:13.477670] - LOCK TIME IS OVER
+[2022-03-10 05:36:14.886377] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:36:14.894373] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:36:24.914681] - LOCK TIME IS OVER
+[2022-03-10 05:36:26.402295] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:36:26.409288] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:36:36.428827] - LOCK TIME IS OVER
+[2022-03-10 05:36:37.985786] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:36:37.993782] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:36:48.005370] - LOCK TIME IS OVER
+[2022-03-10 05:36:49.656287] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:36:49.664281] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:36:59.690751] - LOCK TIME IS OVER
+[2022-03-10 05:37:01.188323] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:37:01.195303] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:37:21.324857] - App was restarted getting data from Json file
+[2022-03-10 05:37:21.347844] - LOCK TIME IS OVER
+[2022-03-10 05:37:23.149790] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:37:23.157765] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:37:33.183005] - LOCK TIME IS OVER
+[2022-03-10 05:37:34.729156] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:37:34.740138] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:37:44.756267] - LOCK TIME IS OVER
+[2022-03-10 05:37:46.474957] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:37:46.486950] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:40:31.702387] - App was restarted getting data from Json file
+[2022-03-10 05:40:31.721381] - LOCK TIME IS OVER
+[2022-03-10 05:40:33.356398] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:40:33.363393] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:40:43.378389] - LOCK TIME IS OVER
+[2022-03-10 05:40:45.193934] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:40:45.201929] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:40:55.217281] - LOCK TIME IS OVER
+[2022-03-10 05:40:57.104399] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:40:57.112403] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:41:07.131317] - LOCK TIME IS OVER
+[2022-03-10 05:41:08.671818] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:41:08.680819] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:41:18.705132] - LOCK TIME IS OVER
+[2022-03-10 05:41:20.172450] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:41:20.180448] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:41:30.198121] - LOCK TIME IS OVER
+[2022-03-10 05:41:31.679061] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:41:31.687077] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:41:41.706663] - LOCK TIME IS OVER
+[2022-03-10 05:41:43.349711] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:41:43.358690] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:41:53.387070] - LOCK TIME IS OVER
+[2022-03-10 05:41:55.012297] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:41:55.022295] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:42:09.483262] - App was restarted getting data from Json file
+[2022-03-10 05:42:09.502251] - LOCK TIME IS OVER
+[2022-03-10 05:42:10.945544] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:42:10.968534] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:42:20.993588] - LOCK TIME IS OVER
+[2022-03-10 05:42:22.854373] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:42:22.868347] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:42:32.889472] - LOCK TIME IS OVER
+[2022-03-10 05:42:34.518940] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:42:34.526938] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:42:44.553392] - LOCK TIME IS OVER
+[2022-03-10 05:42:46.206598] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:42:46.216590] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:42:56.240510] - LOCK TIME IS OVER
+[2022-03-10 05:42:57.868215] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:42:57.876193] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:43:07.891262] - LOCK TIME IS OVER
+[2022-03-10 05:43:09.573413] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:43:09.582407] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:45:33.537369] - App was restarted getting data from Json file
+[2022-03-10 05:45:33.553362] - LOCK TIME IS OVER
+[2022-03-10 05:45:35.194288] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:45:35.213275] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:45:45.233563] - LOCK TIME IS OVER
+[2022-03-10 05:45:47.168752] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:45:47.183741] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:45:57.198751] - LOCK TIME IS OVER
+[2022-03-10 05:45:58.929899] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:45:58.940893] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:47:59.921953] - App was restarted getting data from Json file
+[2022-03-10 05:47:59.950939] - LOCK TIME IS OVER
+[2022-03-10 05:48:01.621104] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:48:01.647055] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:48:11.695770] - LOCK TIME IS OVER
+[2022-03-10 05:48:13.501859] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:48:13.526847] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:48:23.562187] - LOCK TIME IS OVER
+[2022-03-10 05:48:25.182548] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:48:25.213497] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:48:35.260626] - LOCK TIME IS OVER
+[2022-03-10 05:48:36.772660] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:48:36.801620] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:50:05.434973] - App was restarted getting data from Json file
+[2022-03-10 05:50:05.490938] - LOCK TIME IS OVER
+[2022-03-10 05:50:07.268898] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:50:07.282888] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:50:17.314512] - LOCK TIME IS OVER
+[2022-03-10 05:50:18.786244] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:50:18.821226] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:50:28.857611] - LOCK TIME IS OVER
+[2022-03-10 05:50:30.346895] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:50:30.358888] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:50:40.387182] - LOCK TIME IS OVER
+[2022-03-10 05:50:42.077414] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:50:42.111359] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:50:52.153942] - LOCK TIME IS OVER
+[2022-03-10 05:50:53.767914] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:50:53.805884] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:51:03.842519] - LOCK TIME IS OVER
+[2022-03-10 05:51:06.653179] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:51:06.683163] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:51:16.731110] - LOCK TIME IS OVER
+[2022-03-10 05:51:18.373949] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:51:18.387941] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:51:28.411238] - LOCK TIME IS OVER
+[2022-03-10 05:51:30.057842] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:51:30.084833] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:51:40.120021] - LOCK TIME IS OVER
+[2022-03-10 05:51:41.775752] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:51:41.815701] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:51:51.850341] - LOCK TIME IS OVER
+[2022-03-10 05:51:53.553795] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:51:53.588772] - No Records Found Today - length of API Data is 0
+[2022-03-10 05:52:03.624414] - LOCK TIME IS OVER
+[2022-03-10 05:52:05.323460] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 05:52:05.346432] - No Records Found Today - length of API Data is 0
+[2022-03-10 06:00:23.666187] - App was restarted getting data from Json file
+[2022-03-10 06:00:23.689174] - LOCK TIME IS OVER
+[2022-03-10 06:00:25.614900] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 06:00:25.646883] - Setting Data to scriptData.json file
+[2022-03-10 06:00:25.688858] - No Records Found Today - length of API Data is 0
+[2022-03-10 06:00:35.722147] - LOCK TIME IS OVER
+[2022-03-10 06:00:37.229846] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 06:00:37.266819] - Setting Data to scriptData.json file
+[2022-03-10 06:00:37.299798] - No Records Found Today - length of API Data is 0
+[2022-03-10 06:00:49.056474] - App was restarted getting data from Json file
+[2022-03-10 06:00:49.129426] - LOCK TIME IS OVER
+[2022-03-10 06:00:50.727464] - Hit API Date Parameters - From ~ 2022-03-10 00:00:00 - TO ~ 2022-03-10 23:59:00
+[2022-03-10 06:00:50.737431] - Setting Data to scriptData.json file
+[2022-03-10 06:00:50.752423] - No Records Found Today - length of API Data is 0
+[2022-03-10 06:01:00.776944] - LOCK TIME IS OVER

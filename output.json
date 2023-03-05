@@ -1,0 +1,1781 @@
+[
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "STOP",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 29.0,
+        "filledQuantity": 29.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "UBSS",
+        "stopPrice": 21.86,
+        "stopType": "STANDARD",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 29.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7139485912,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T16:19:38+0000",
+        "closeTime": "2022-01-31T16:20:28+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36995818324,
+                "executionType": "FILL",
+                "quantity": 29.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 29.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.86,
+                        "time": "2022-01-31T16:20:28+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 13.0,
+        "filledQuantity": 13.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "EDGX",
+        "price": 21.82,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 13.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7139485869,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T16:18:51+0000",
+        "closeTime": "2022-01-31T16:18:58+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36994322928,
+                "executionType": "FILL",
+                "quantity": 13.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 13.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.82,
+                        "time": "2022-01-31T16:18:58+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 41.0,
+        "filledQuantity": 41.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 21.88,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 41.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7139485750,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T16:16:40+0000",
+        "closeTime": "2022-01-31T16:16:41+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36994322411,
+                "executionType": "FILL",
+                "quantity": 41.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 41.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.88,
+                        "time": "2022-01-31T16:16:41+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 83.0,
+        "filledQuantity": 83.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 21.93,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 83.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7139485679,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T16:14:45+0000",
+        "closeTime": "2022-01-31T16:14:45+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36994322030,
+                "executionType": "FILL",
+                "quantity": 83.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 83.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.9301,
+                        "time": "2022-01-31T16:14:45+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "STOP",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 50.0,
+        "filledQuantity": 50.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "SOHO",
+        "stopPrice": 21.95,
+        "stopType": "STANDARD",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 50.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7139485532,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T16:12:19+0000",
+        "closeTime": "2022-01-31T16:12:27+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36994321392,
+                "executionType": "FILL",
+                "quantity": 50.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 50.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.9316,
+                        "time": "2022-01-31T16:12:27+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "MARKET",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 50.0,
+        "filledQuantity": 50.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "ETMM",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 50.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7139485448,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T16:11:24+0000",
+        "closeTime": "2022-01-31T16:11:24+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36994320889,
+                "executionType": "FILL",
+                "quantity": 50.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 50.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 22.0243,
+                        "time": "2022-01-31T16:11:24+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 65.0,
+        "filledQuantity": 65.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 21.83,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 65.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7138786421,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:58:22+0000",
+        "closeTime": "2022-01-31T15:58:24+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36992935914,
+                "executionType": "FILL",
+                "quantity": 65.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 65.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.83,
+                        "time": "2022-01-31T15:58:24+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 25.0,
+        "filledQuantity": 25.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 21.89,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 25.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7138786345,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:57:04+0000",
+        "closeTime": "2022-01-31T15:57:20+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36992935644,
+                "executionType": "FILL",
+                "quantity": 25.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 25.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.89,
+                        "time": "2022-01-31T15:57:20+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "MARKET",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 20.0,
+        "filledQuantity": 20.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 20.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7138786185,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:54:50+0000",
+        "closeTime": "2022-01-31T15:54:50+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36992934745,
+                "executionType": "FILL",
+                "quantity": 20.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 20.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.795,
+                        "time": "2022-01-31T15:54:50+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "MARKET",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 20.0,
+        "filledQuantity": 20.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "26142R104",
+                    "symbol": "DKNG"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 20.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7138786163,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:54:27+0000",
+        "closeTime": "2022-01-31T15:54:27+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36992934582,
+                "executionType": "FILL",
+                "quantity": 20.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 20.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 21.8,
+                        "time": "2022-01-31T15:54:27+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "MARKET",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 4.0,
+        "filledQuantity": 4.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "ETMM",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 4.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7137290483,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:03:38+0000",
+        "closeTime": "2022-01-31T15:03:38+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36985776113,
+                "executionType": "FILL",
+                "quantity": 4.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 4.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 173.185,
+                        "time": "2022-01-31T15:03:38+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 3.0,
+        "filledQuantity": 3.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 173.21,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 3.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7137290459,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:03:16+0000",
+        "closeTime": "2022-01-31T15:03:18+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36985775968,
+                "executionType": "FILL",
+                "quantity": 3.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 3.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 173.21,
+                        "time": "2022-01-31T15:03:18+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 6.0,
+        "filledQuantity": 6.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 173.09,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 6.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7137290243,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:00:58+0000",
+        "closeTime": "2022-01-31T15:01:00+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36985774933,
+                "executionType": "FILL",
+                "quantity": 6.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 6.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 173.09,
+                        "time": "2022-01-31T15:01:00+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 12.0,
+        "filledQuantity": 12.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 172.85,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 12.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7137290143,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T15:00:05+0000",
+        "closeTime": "2022-01-31T15:00:05+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36985774442,
+                "executionType": "FILL",
+                "quantity": 12.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 12.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 172.8501,
+                        "time": "2022-01-31T15:00:05+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 25.0,
+        "filledQuantity": 25.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 172.27,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 25.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7137290072,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:59:12+0000",
+        "closeTime": "2022-01-31T14:59:12+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36985774097,
+                "executionType": "FILL",
+                "quantity": 25.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 25.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 172.27,
+                        "time": "2022-01-31T14:59:12+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "NORMAL",
+        "duration": "DAY",
+        "orderType": "MARKET",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 7.0,
+        "filledQuantity": 7.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "ETMM",
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 7.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7136548788,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:45:42+0000",
+        "closeTime": "2022-01-31T14:45:42+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36982117588,
+                "executionType": "FILL",
+                "quantity": 7.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 7.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 172.1059,
+                        "time": "2022-01-31T14:45:42+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 6.0,
+        "filledQuantity": 6.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 171.89,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 6.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7136548760,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:45:24+0000",
+        "closeTime": "2022-01-31T14:45:24+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36982117484,
+                "executionType": "FILL",
+                "quantity": 6.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 6.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 171.905,
+                        "time": "2022-01-31T14:45:24+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 12.0,
+        "filledQuantity": 12.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 171.52,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 12.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7136548277,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:40:36+0000",
+        "closeTime": "2022-01-31T14:40:36+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36982115211,
+                "executionType": "FILL",
+                "quantity": 12.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 12.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 171.5201,
+                        "time": "2022-01-31T14:40:36+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 25.0,
+        "filledQuantity": 25.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 170.91,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "037833100",
+                    "symbol": "AAPL"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 25.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 7136548075,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:39:14+0000",
+        "closeTime": "2022-01-31T14:39:14+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36982114423,
+                "executionType": "FILL",
+                "quantity": 25.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 25.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 170.91,
+                        "time": "2022-01-31T14:39:14+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.49,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912855,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:23:49+0000",
+        "closeTime": "2022-01-31T14:23:50+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978627617,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.49,
+                        "time": "2022-01-31T14:23:50+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 352.46,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912853,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:23:39+0000",
+        "closeTime": "2022-01-31T14:23:39+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978627610,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.46,
+                        "time": "2022-01-31T14:23:39+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.95,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912747,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:13:33+0000",
+        "closeTime": "2022-01-31T14:13:33+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978627050,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.93,
+                        "time": "2022-01-31T14:13:33+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.89,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912740,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:13:18+0000",
+        "closeTime": "2022-01-31T14:13:18+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978627017,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.89,
+                        "time": "2022-01-31T14:13:18+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "ARCX",
+        "price": 353.25,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912670,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:09:18+0000",
+        "closeTime": "2022-01-31T14:09:18+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978626728,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 353.25,
+                        "time": "2022-01-31T14:09:18+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 353.17,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912648,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:08:20+0000",
+        "closeTime": "2022-01-31T14:08:44+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978626674,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 353.17,
+                        "time": "2022-01-31T14:08:44+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 353.12,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912615,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:06:58+0000",
+        "closeTime": "2022-01-31T14:07:09+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978626525,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 353.12,
+                        "time": "2022-01-31T14:07:09+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.94,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912571,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:04:05+0000",
+        "closeTime": "2022-01-31T14:04:05+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978626300,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.92,
+                        "time": "2022-01-31T14:04:05+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "ARCX",
+        "price": 352.85,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY_TO_COVER",
+                "positionEffect": "CLOSING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912548,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:02:07+0000",
+        "closeTime": "2022-01-31T14:02:07+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978626190,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.85,
+                        "time": "2022-01-31T14:02:07+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.76,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912547,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T14:01:54+0000",
+        "closeTime": "2022-01-31T14:01:54+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978626184,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.76,
+                        "time": "2022-01-31T14:01:54+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 352.98,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL",
+                "positionEffect": "CLOSING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912504,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T13:57:50+0000",
+        "closeTime": "2022-01-31T13:58:11+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978625930,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.98,
+                        "time": "2022-01-31T13:58:11+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.96,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912502,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T13:57:43+0000",
+        "closeTime": "2022-01-31T13:57:46+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978625919,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.96,
+                        "time": "2022-01-31T13:57:46+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "NITE",
+        "price": 352.79,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "SELL_SHORT",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912493,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T13:55:29+0000",
+        "closeTime": "2022-01-31T13:56:00+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978625859,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 1.0,
+                        "price": 352.79,
+                        "time": "2022-01-31T13:56:00+0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "session": "SEAMLESS",
+        "duration": "DAY",
+        "orderType": "LIMIT",
+        "complexOrderStrategyType": "NONE",
+        "quantity": 1.0,
+        "filledQuantity": 1.0,
+        "remainingQuantity": 0.0,
+        "requestedDestination": "AUTO",
+        "destinationLinkName": "CDRG",
+        "price": 352.74,
+        "taxLotMethod": "AVERAGE_COST",
+        "orderLegCollection": [
+            {
+                "orderLegType": "EQUITY",
+                "legId": 1,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "46090E103",
+                    "symbol": "QQQ"
+                },
+                "instruction": "BUY",
+                "positionEffect": "OPENING",
+                "quantity": 1.0
+            }
+        ],
+        "orderStrategyType": "SINGLE",
+        "orderId": 6200912490,
+        "cancelable": false,
+        "editable": false,
+        "status": "FILLED",
+        "enteredTime": "2022-01-31T13:55:23+0000",
+        "closeTime": "2022-01-31T13:55:35+0000",
+        "tag": "AA_DasTrader1",
+        "accountId": 238967723,
+        "orderActivityCollection": [
+            {
+                "activityType": "EXECUTION",
+                "activityId": 36978625856,
+                "executionType": "FILL",
+                "quantity": 1.0,
+                "orderRemainingQuantity": 0.0,
+                "executionLegs": [
+                    {
+                        "legId": 1,
+                        "quantity": 1.0,
+                        "mismarkedQuantity": 0.0,
+                        "price": 352.74,
+                        "time": "2022-01-31T13:55:35+0000"
+                    }
+                ]
+            }
+        ]
+    }
+]
